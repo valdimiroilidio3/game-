@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+uv-sync.log
+doctor.log
+voz-teste.wav
